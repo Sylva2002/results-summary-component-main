@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/results-summary-component-in-html-css-ErTsyeJz1B)
+- Live Site URL: [Github page](https://sylva2002.github.io/results-summary-component-main/)
 
 ## My process
 
